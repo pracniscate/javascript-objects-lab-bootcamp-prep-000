@@ -1,1 +1,1 @@
-var bject = { recipes };
+var object = { recipes };
